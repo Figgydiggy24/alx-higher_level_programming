@@ -23,6 +23,4 @@ void free_listint(listint_t *head);
 
 int is_palindrome(listint_t **head);
 
-def element_at(my_list, idx);
-def replace_in_list(my_list, idx, element);
 #endif /* LISTS_H*/
